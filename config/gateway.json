@@ -1,1 +1,1 @@
-{"timeout": 30, "endpoint": "https://api.example.com"}
+{"timeout": 20, "endpoint": "https://api.example.com"}
